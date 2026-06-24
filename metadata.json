@@ -1,0 +1,6 @@
+{
+  "name": "TerraData Insights",
+  "description": "B2B freelance digital property sourcing and public land registry data analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
